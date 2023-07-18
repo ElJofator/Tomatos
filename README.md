@@ -9,5 +9,5 @@
 - Dataset: PlantVillage.
 - Modelo: ResNet.
 
-[(Video)](https://youtu.be/F9ZSR4qR6nQ) 
-[(Dataset)](https://www.kaggle.com/gpiosenka/100-bird-species) 
+[(Video)](https://www.youtube.com/watch?v=6ok3pLspI4k) 
+[(Dataset)](https://data.mendeley.com/datasets/tywbtsjrjv/1) 
