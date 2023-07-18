@@ -7,7 +7,7 @@
 **Objetivo: Realizar una clasificación de hojas de tomate para la detección de enfermedades.**
 
 - Dataset: PlantVillage.
-- Modelo: ResNet.
+- Modelo: CNN y ResNet.
 
 [(Video)](https://www.youtube.com/watch?v=6ok3pLspI4k) 
 [(Dataset)](https://data.mendeley.com/datasets/tywbtsjrjv/1) 
