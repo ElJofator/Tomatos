@@ -9,5 +9,6 @@
 - Dataset: PlantVillage.
 - Modelo: CNN y ResNet.
 
-[(Video)](https://www.youtube.com/watch?v=6ok3pLspI4k) 
-[(Dataset)](https://data.mendeley.com/datasets/tywbtsjrjv/1) 
+[(Código)](https://github.com/ElJofator/Tomatos/blob/main/ProyectoIA2.ipynb)
+[(Video)](https://www.youtube.com/watch?v=6ok3pLspI4k)
+[(Dataset)](https://data.mendeley.com/datasets/tywbtsjrjv/1)
