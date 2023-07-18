@@ -2,7 +2,7 @@
 
 **Autores: Joseph Fabián Basto Cuadros, Juean José Bayona Sepulveda**
 
-<img src="https://raw.githubusercontent.com/ElJofator/Tomatos/blob/main/Banner%20IA2.png" style="width:700px;">
+<img src="https://raw.githubusercontent.com/ElJofator/Tomatos/master/Banner%20IA2.png" style="width:700px;">
 
 **Objetivo: Realizar una clasificación de hojas de tomate para la detección de enfermedades.**
 
